@@ -1,0 +1,196 @@
+{
+    "loading": "Chargement...",
+    "sure": "Êtes-vous sûr",
+    "yes": "Oui",
+    "no": "Non",
+    "noComeBack": "Il n'y a pas de retour en arrière",
+    "france": "France",
+    "create": "Créer",
+    "close": "Fermer",
+    "userName": "Nom d'utilisateur",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "profilee": "Profil",
+    "password": "Mot de passe",
+    "arabic": "Arabe",
+    "english": "Anglais",
+    "update": "Mettre à jour",
+    "actions": "Actions",
+    "add": "Ajouter",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "save": "Enregistrer",
+    "sidebar": {
+        "settings": "Paramètres",
+        "menu": "Menu",
+        "home": "Accueil",
+        "services": "Nos services",
+        "request_service": "Demander des services",
+        "about_us": "À propos de nous",
+        "team": "Notre équipe",
+        "testimonial": "Témoignages",
+        "contact-us": "Contactez-nous",
+        "about-us": "À propos de nous",
+        "testimonials": "Témoignages",
+        "appointments": "Rendez-vous",
+        "sections": "Sections",
+        "ads": "Publicités",
+        "workingHours": "Heures de travail",
+        "blogs": "Blogs",
+        "partners": "Partenaires",
+        "categories": "Catégories",
+        "pricePlan": "Plan de prix",
+        "users": "Utilisateurs",
+        "statics": "Statistiques",
+        "profile": "Profil",
+        "roles": "Rôles",
+        "products": "Produits"
+    },
+    "settings": {
+        "head": "Gérer les paramètres",
+        "title": "Titre",
+        "address": "Adresse",
+        "email": "E-mail",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "linkedin": "LinkedIn",
+        "facebook": "Facebook",
+        "whatsapp": "Whatsapp",
+        "youtube": "Youtube",
+        "working_hours": "Heures de travail"
+    },
+    "teams": {
+        "create": "Créer un membre d'équipe",
+        "edit": "Modifier un membre d'équipe",
+        "card": "Carte du membre de l'équipe",
+        "head": "Gérer les équipes",
+        "section": {
+            "title": "Titre"
+        },
+        "id": "Id",
+        "name": "Nom",
+        "teamMemberPhoto": "Photo",
+        "email": "E-mail",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "linkedin": "LinkedIn",
+        "facebook": "Facebook",
+        "youtube": "Youtube"
+    },
+    "contact-us": {
+        "head": "Gérer les demandes de contact",
+        "id": "Id",
+        "name": "Nom",
+        "email": "E-mail",
+        "phone": "Téléphone",
+        "message": "Message",
+        "delete": "Supprimer"
+    },
+    "appointment": {
+        "card": "Détails du rendez-vous",
+        "head": "Gérer les demandes de contact",
+        "id": "Id",
+        "name": "Nom",
+        "email": "E-mail",
+        "date": "Date",
+        "message": "Message",
+        "product": {
+            "details": "Détails du produit",
+            "name": "Nom du produit",
+            "id": "Id du produit",
+            "quantity": "Quantité du produit",
+            "price": "Prix du produit"
+        }
+    },
+    "testimonials": {
+        "head": "Gérer les témoignages",
+        "id": "Id",
+        "name": "Nom",
+        "content": "Contenu",
+        "avatar": "Avatar"
+    },
+    "aboutUs": {
+        "head": "Gérer À propos de nous",
+        "name": "Nom",
+        "description": "Description",
+        "youtube_video_url": "URL de la vidéo Youtube",
+        "image": "Image"
+    },
+    "layout": {
+        "footer": {
+            "contactUs": "Contactez-nous",
+            "subscribe": "S'abonner",
+            "subscribeText": "Abonnez-vous à notre newsletter pour recevoir des offres exclusives et les dernières actualités sur nos produits et services.",
+            "copyRight": "© 2023 Tous droits réservés. Propulsé par "
+        }
+    },
+    "home": {
+        "showMore": "Afficher plus",
+        "whatWeDo": "Ce que nous faisons",
+        "contactUs": "N'hésitez pas à nous contacter",
+        "contactUsMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "requestService": "N'hésitez pas à demander une commande",
+        "requestServiceMessage": "Moasdklfjalsdjflk.asdfhaksjdhf"
+    },
+    "contactForm": {
+        "name": "Nom",
+        "email": "E-mail",
+        "phone": "Téléphone",
+        "message": "Message",
+        "send": "Envoyer le message"
+    },
+    "appointmentForm": {
+        "name": "Nom",
+        "email": "E-mail",
+        "date": "Date",
+        "message": "Message",
+        "send": "Envoyer le message",
+        "service": "Choisissez le service",
+        "head": "Demander un service"
+    },
+    "search": "Rechercher ...",
+    "email": "E-mail",
+    "sections": {
+        "head": "Gérer les sections",
+        "title": "Titre",
+        "delete": "Supprimer",
+        "id": "Id",
+        "create": "Créer une section",
+        "edit": "Modifier une section",
+        "discont": "Remise",
+        "description": "Description",
+        "image": "Image"
+    },
+    "ads": {
+        "head": "Gérer les publicités",
+        "title": "Titre",
+        "delete": "Supprimer",
+        "id": "Id",
+        "create": "Créer une section",
+        "edit": "Modifier une section",
+        "discont": "Remise",
+        "description": "Description",
+        "image": "Image",
+        "discount": "Remise"
+    },
+    "workingHours": {
+        "saturday": "Samedi",
+        "sunday": "Dimanche",
+        "monday": "Lundi",
+        "tuseday": "Mardi",
+        "wednesday": ""
+    },
+    "services": {
+        "head": "Manage Services",
+        "id": "Id",
+        "name": "Name",
+        "price": "Price",
+        "description": "Description",
+        "image": "Image",
+        "category": "Category",
+        "create": "Create Service",
+        "edit": "Edit Service",
+        "delete": "Delete",
+        "main_image": "Main Image"
+    }
+}

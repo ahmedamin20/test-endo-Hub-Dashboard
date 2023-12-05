@@ -1,0 +1,101 @@
+#theme1 {
+  background-image: url(/bg-themes/1.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme2 {
+  background-image: url(/bg-themes/2.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme3 {
+  background-image: url(/bg-themes/3.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme4 {
+  background-image: url(/bg-themes/4.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme5 {
+  background-image: url(/bg-themes/5.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme6 {
+  background-image: url(/bg-themes/6.png);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme7 {
+  background-image: linear-gradient(45deg, #0c675e, #069e90);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme8 {
+  background-image: linear-gradient(
+    567deg,
+    rgba(165, 42, 4, 0.89),
+    rgba(113, 102, 8, 0.89),
+    rgba(13, 95, 16, 0.93),
+    rgba(4, 79, 88, 0.94),
+    rgba(19, 56, 86, 0.9),
+    rgba(24, 32, 78, 0.94),
+    rgba(100, 8, 115, 0.95)
+  );
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme9 {
+  background-image: linear-gradient(45deg, #29323c, #485563);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme10 {
+  background-image: linear-gradient(45deg, #795548, #945c48);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme11 {
+  background-image: linear-gradient(45deg, #1565c0, #1e88e5);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme12 {
+  background-image: linear-gradient(45deg, #65379b, #886aea);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+
+#theme13 {
+  background-image: linear-gradient(180deg, #ff5447, #f1076f);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+
+#theme14 {
+  background-image: linear-gradient(180deg, #08a50e, #69bb03);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}
+#theme15 {
+  background-image: linear-gradient(45deg, #6a11cb, #2575fc);
+  background-size: 100% 100%;
+  background-position: center;
+  transition: background 0.3s;
+}

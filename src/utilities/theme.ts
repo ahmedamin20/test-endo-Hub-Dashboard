@@ -1,0 +1,22 @@
+export const themes = [
+    // {  name: "bg1", img: true, src: '/background/1.png', background: "url(/background/1.png)" },
+    // {  name: "bg2", img: true, src: '/background/2.png', background: "url(/background/2.png)" },
+    // {  name: "bg3", img: true, src: '/background/3.png', background: "url(/background/3.png)" },
+    // {  name: "bg4", img: true, src: '/background/4.png', background: "url(/background/4.png)" },
+    // {  name: "bg5", img: true, src: '/background/5.png', background: "url(/background/5.png)" },
+    // {  name: "bg6", img: true, src: '/background/6.png', background: "url(/background/6.png)" },
+    { name: "bg1", img: false,textColor:'black', background: "linear-gradient(567deg, rgba(165, 42, 4, 0.89), rgba(113, 102, 8, 0.89), rgba(13, 95, 16, 0.93), rgba(4, 79, 88, 0.94), rgba(19, 56, 86, 0.9), rgba(24, 32, 78, 0.94), rgba(100, 8, 115, 0.95))" },
+    { name: "bg2", img: false, background: "linear-gradient(180deg, #08a50e, #69bb03)" },
+    { name: "bg3", img: false, background: "linear-gradient(45deg, #795548, #945c48)" },
+    { name: "bg4", img: false, background: "linear-gradient(45deg, #29323c, #485563)" },
+    { name: "bg5", img: false, background: "linear-gradient(45deg, #1565C0, #1E88E5)" },
+    { name: "bg6", img: false, background: "linear-gradient(45deg, #65379b, #886aea)" },
+    { name: "bg6", img: false, background: "black" },
+   { name: "bg7", img: false, background: "linear-gradient(180deg, #ff5447, #f1076f)" },
+  
+    { name: "bg8", img: false, background: "#09867B" },
+      { name: "Theme 7", img: false, background: "#4e7a9a" },
+    { name: "Theme 7", img: false, background: "#34156f" },
+    { name: "Theme 7", img: false, background: "#415240" },
+    { name: "Theme 7", img: false, background: "#4c9344" },
+  ];
